@@ -26,5 +26,5 @@ jobs:
         uses: e-square-io/nx-affected-matrix@v2
         id: affected
         with:
-          targets: 'test,build'
+          targets: 'build'
           maxDistribution: 3
