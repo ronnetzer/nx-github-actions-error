@@ -1,5 +1,6 @@
 {
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "root": "libs/api-interfaces",
   "sourceRoot": "libs/api-interfaces/src",
   "projectType": "library",
   "targets": {
