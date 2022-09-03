@@ -1,5 +1,6 @@
 {
   "projectType": "application",
+  "root": "apps/myapp",
   "sourceRoot": "apps/myapp/src",
   "prefix": "nx-github-actionss-error",
   "targets": {
