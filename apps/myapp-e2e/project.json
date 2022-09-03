@@ -1,5 +1,6 @@
 {
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "root": "apps/myapp-e2e",
   "sourceRoot": "apps/myapp-e2e/src",
   "projectType": "application",
   "targets": {
